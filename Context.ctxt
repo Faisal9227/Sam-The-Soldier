@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Context
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Context\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Context()
+comment2.params=soldierBullet
+comment2.target=void\ setState(Bullets)
+comment3.params=
+comment3.target=Bullets\ getState()
+numComments=4

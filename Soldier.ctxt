@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Soldier
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Soldier\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Soldier()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ public\ void\ addHealthBar(){\r\n\ \ \ \ \ \ \ \ getWorld().addObject(hbar,\ 250,\ 40);\r\n}
+comment3.params=
+comment3.target=void\ displayGameOver()
+comment4.params=
+comment4.target=void\ drop()
+comment5.params=
+comment5.target=void\ dieanimation()
+comment6.params=
+comment6.target=void\ attach()
+comment7.params=
+comment7.target=void\ dettach()
+comment8.params=val
+comment8.target=void\ notify(int)
+numComments=9
